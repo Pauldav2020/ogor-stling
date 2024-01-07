@@ -1,0 +1,8 @@
+[04-Jan-2024 14:44:02 UTC] PHP Warning:  Undefined array key "admin" in /home/scntratz/stlinggroup/admin/process.php on line 5
+[04-Jan-2024 14:44:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/scntratz/stlinggroup/admin/process.php on line 5
+[04-Jan-2024 14:44:02 UTC] PHP Warning:  Undefined array key "admin" in /home/scntratz/stlinggroup/admin/index.php on line 7
+[04-Jan-2024 14:44:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/scntratz/stlinggroup/admin/index.php on line 7
+[04-Jan-2024 14:44:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/scntratz/stlinggroup/admin/index.php on line 69
+[04-Jan-2024 15:25:40 UTC] PHP Warning:  Undefined array key "admin" in /home/scntratz/stlinggroup/admin/process.php on line 5
+[04-Jan-2024 15:25:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/scntratz/stlinggroup/admin/process.php on line 5
+[04-Jan-2024 15:25:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/scntratz/stlinggroup/admin/transfer_restrict.php on line 74

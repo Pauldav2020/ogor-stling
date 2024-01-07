@@ -1,0 +1,2 @@
+[04-Jan-2024 14:18:29 UTC] PHP Warning:  Undefined array key "user" in /home/scntratz/stlinggroup/cust/process/notification.php on line 4
+[04-Jan-2024 14:18:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/scntratz/stlinggroup/cust/process/notification.php on line 4

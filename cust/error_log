@@ -1,0 +1,1 @@
+[04-Jan-2024 14:09:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'u510298105_skrustusers'@'localhost' (using password: YES) in /home/scntratz/stlinggroup/cust/config/config.php on line 9
